@@ -1,3 +1,3 @@
 # Home-Automation
 
-#Home Automation using ESP32 
+Home Automation using ESP32 
